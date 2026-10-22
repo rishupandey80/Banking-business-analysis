@@ -13,7 +13,7 @@ This project explores a banking customer dataset and presents insights about cus
 - `Banking Dashboard (2025) (1).pbix` — Power BI report file.
 - `Banking.pptx` — presentation containing the project description and selected dashboard KPIs/observations.
 
-## Dataset Profile
+## Dataset Profile  
 
 The notebook reports **3,000 rows × 25 columns**. Fields include client identifier/name, age, location ID, bank-joining date, banking contact, nationality, occupation, fee structure, loyalty classification, estimated income, superannuation savings, number of credit cards, credit-card balance, bank loans, bank deposits, checking accounts, saving accounts, foreign-currency account, business lending, properties owned, risk weighting, and encoded IDs (`BRId`, `GenderId`, `IAId`).
 
